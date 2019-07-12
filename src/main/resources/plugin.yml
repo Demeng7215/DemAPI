@@ -1,0 +1,4 @@
+name: DemAPI
+version: ${project.version}
+main: com.demeng7215.demapi.DemAPIPlugin
+api-version: 1.13
